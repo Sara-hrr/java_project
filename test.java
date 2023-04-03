@@ -10,7 +10,7 @@ public class Test {
 
         try {
                 // entity
-                Client cli  = new Client(0l,"nahid","9009990099");
+                Client cli  = new Client(0l,"sara","9009990099");
 
                 //Transacatio
                 ClientDAO clidao = new ClientDAO();
